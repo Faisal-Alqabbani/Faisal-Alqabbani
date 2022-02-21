@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faisal Alqabbani</h1>
-<h3 align="center">A passionate Software Developer from Saudi Arabia, Al Riyadh</h3>
+<h3 align="center">A passionate Software Developer from Alriyadh, Saudi Arabia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-alqabbani" alt="faisal-alqabbani" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working At **ArabSea Information Systems and Freelancing**
 
 - 🌱 I’m currently learning **Laravel,Docker**
 

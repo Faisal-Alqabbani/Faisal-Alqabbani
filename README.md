@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-alqabbani" alt="faisal-alqabbani" /></a> </p>
 
-- 🔭 I’m currently working At **ArabSea Information Systems and Freelancing**
+- 🔭 I’m currently working As **Sofware Developer**
 
 - 🌱 I’m currently learning **Laravel,Docker**
 

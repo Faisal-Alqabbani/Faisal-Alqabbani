@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel,Docker**
 
-- 👨‍💻 All of my projects are available at [https://faisal-alqabbani.web.app/](https://faisal-alqabbani.web.app/)
+- 👨‍💻 Most of my projects are available at [https://faisal-alqabbani.web.app/](https://faisal-alqabbani.web.app/)
 
 - 💬 Ask me about **React, PHP, Nodejs, Python, Django**
 

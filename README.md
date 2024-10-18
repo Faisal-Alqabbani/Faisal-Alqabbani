@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working As a **Sofware Developer**
 
-- 🌱 I’m currently learning **Laravel,Docker**
+- 🌱 I’m currently learning **Three.js and AI**
 
 - 👨‍💻 Most of my projects are available at [https://faisal-alqabbani.web.app/](https://faisal-alqabbani.web.app/)
 
